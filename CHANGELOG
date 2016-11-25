@@ -1,0 +1,14 @@
+1.5.1 -- 2016-07-07
+- [UPDATE] Added target group as field for measure completed events.
+
+1.5.0
+- [NEW] Added measure requested and completed events.
+
+1.4.0 - 2016-06-17
+- [NEW] Added set machine data event.
+
+1.3.0 - 2016-02-29
+- [NEW] Added startup complete event.
+
+1.2.0 - 2016-01-14
+- [NEW] Added process termination event.
